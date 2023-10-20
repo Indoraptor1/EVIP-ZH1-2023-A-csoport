@@ -2,7 +2,7 @@
 
 public class AdvancedPersonSource : IPersonSource
 {
-    public List<Person> Persons { get; set; }
+    private List<Person> Persons { get; set; }
     public IEnumerable<Person> GetPersons()
     {
         return Persons;
