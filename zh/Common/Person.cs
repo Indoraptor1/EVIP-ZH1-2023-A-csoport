@@ -16,4 +16,9 @@ public class Person
     {
         return new Person("Zsombor", 20, 180);
     }
+
+    public override string ToString()
+    {
+        return $"Név: {name}, Kor: {age}, Magasság: {height}";
+    }
 }
