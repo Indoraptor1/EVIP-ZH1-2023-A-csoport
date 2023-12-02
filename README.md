@@ -1,1 +1,1 @@
-Név:  Neptun kód: 
+Név:Zsombor  Neptun kód: AAA123
